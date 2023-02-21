@@ -51,4 +51,4 @@ setTimeout(() => {
   for (let ele of )
   process.stdout.write('\r|   ');
 }, myVar);
-myVar += 200
+myVar += 2000
